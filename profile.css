@@ -1,0 +1,111 @@
+body {
+    background-color: white;
+    overflow-y: auto;
+    margin: 0; 
+    height: 150vh;
+
+}
+
+.panel {
+    background-color: black;
+    width: 100%;
+    height: 5%;
+    position: fixed; 
+    z-index: 1000;
+    display: flex;
+
+}
+
+.LiberteLogo {
+    position: fixed;
+    z-index: 1000;
+    left: 44.5%;
+    top: 0.3%;
+    display: block;
+
+}
+
+.Profile {
+    position: fixed;
+    z-index: 1000;
+    left: 95%;
+    top: 0.5%;
+
+}
+
+.Shop {
+    position: fixed;
+    z-index: 1000;
+    left: 91%;
+    top: 0.5%;
+ 
+}
+
+.Telegram {
+    position: fixed;
+    z-index: 1000;
+    left: 3%;
+    top: 0.5%;
+}
+
+.Profile-text {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 42%;
+    padding-top: 5%;
+    position: absolute;
+}
+
+.Your-Name {
+    background-color: snow;
+    width: 25%;
+    height: 45px;
+    position: absolute; 
+    top: 19%;
+    border-radius: 20px;
+    left: 37%;
+    z-index: 1;    
+}
+
+.Your-Surname {
+    background-color: snow;
+    width: 25%;
+    height: 45px;
+    position: absolute; 
+    top: 25%;
+    border-radius: 20px;
+    left: 37%;
+    z-index: 1;
+    
+}
+
+.Your-Phone-Number {
+    background-color: snow;
+    width: 25%;
+    height: 45px;
+    position: absolute; 
+    top: 31%;
+    border-radius: 20px;
+    left: 37%;
+    z-index: 1;
+    
+}
+
+.Element {
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 75%;
+    height: 300px;
+    width: 400px;
+    
+}
+
+.Element2 {
+    position: absolute;
+    padding-top: 5%;
+    padding-left: 5%;
+    height: 300px;
+    width: 400px;
+    
+}

@@ -1,0 +1,190 @@
+body {
+    background-color: white;
+    overflow-y: auto;
+    margin: 0; 
+    height: 150vh;
+
+}
+
+.panel {
+    background-color: black;
+    width: 100%;
+    height: 5%;
+    position: fixed; 
+    z-index: 1000;
+    display: flex;
+
+}
+
+.LiberteLogo {
+    position: fixed;
+    z-index: 1000;
+    left: 44.5%;
+    top: 0.3%;
+    display: block;
+
+}
+
+.Profile {
+    position: fixed;
+    z-index: 1000;
+    left: 95%;
+    top: 0.5%;
+
+}
+
+.Shop {
+    position: fixed;
+    z-index: 1000;
+    left: 91%;
+    top: 0.5%;
+ 
+}
+
+.Telegram {
+    position: fixed;
+    z-index: 1000;
+    left: 3%;
+    top: 0.5%;
+}
+
+.Brown-T-Shirt {
+    width: 525px;
+    height: 525px;
+    padding-top: 11%;
+    padding-left: 27%;
+    position: absolute;
+
+
+}
+
+
+.Title-T-Shirt {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 56%;
+    padding-top: 11.7%;
+    position: absolute;
+
+  
+}
+
+.Price-T-Shirt {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 56%;
+    padding-top: 13.6%;
+    position: absolute;
+
+}
+
+.Size-T-Shirt {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 56%;
+    padding-top: 15.2%;
+    position: absolute;
+
+}
+
+.size{
+    left: 56%;
+    top: 35%;
+    font-size: 18px;
+    width: 65px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+.sizeS{
+    left: 60%;
+    top: 35%;
+    font-size: 18px;
+    width: 65px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+.sizeM{
+    left: 64%;
+    top: 35%;
+    font-size: 18px;
+    width: 65px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+.size:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.sizeS:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.sizeM:hover{
+    background-color: white;
+    color: black;
+
+}
+
+.buy{
+    left: 56%;
+    top: 38.9%;
+    font-size: 18px;
+    width: 100px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    position: absolute;
+    cursor: pointer;
+
+}
+
+.buy:hover{
+    background-color: white;
+    color: black;
+}
+
+.description {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 56%;
+    padding-top: 21%;
+    position: absolute;
+
+}
+
+.Laundry {
+    font-family: "Cal Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 56%;
+    padding-top: 28%;
+    position: absolute;
+
+}
